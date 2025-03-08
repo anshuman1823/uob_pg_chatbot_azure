@@ -1,0 +1,1 @@
+Created a dummy chatbot to answer queries regarding postgraduate programs at the University of Birmignham. The chatbot is based on LLM Phi-4 deployed on Microsoft Azure AI.

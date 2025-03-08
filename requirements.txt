@@ -1,0 +1,5 @@
+azure-core
+azure-ai-inference
+azure-identity
+python-dotenv
+flask
